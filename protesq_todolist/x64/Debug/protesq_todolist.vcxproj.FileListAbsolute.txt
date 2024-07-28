@@ -1,0 +1,3 @@
+C:\Users\ydm00\source\repos\protesq_todolist\protesq_todolist\x64\Debug\protesq_todolist.vcxproj.AssemblyReference.cache
+C:\Users\ydm00\source\repos\protesq_todolist\protesq_todolist\x64\Debug\asd.MyForm.resources
+C:\Users\ydm00\source\repos\protesq_todolist\protesq_todolist\x64\Debug\protesq_todolist.vcxproj.GenerateResource.cache

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\Users\ydm00\source\repos\asd\asd\MyForm.cpp(4,6): warning C4829: Ana işlev için hatalı olabilecek parametreler. 'int main(Platform::Array<Platform::String^>^ argv)' kullanmayı düşünün
+  MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  asd.vcxproj -> C:\Users\ydm00\source\repos\asd\x64\Debug\asd.exe

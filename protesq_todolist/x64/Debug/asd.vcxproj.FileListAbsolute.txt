@@ -1,0 +1,3 @@
+C:\Users\ydm00\source\repos\asd\asd\x64\Debug\asd.vcxproj.AssemblyReference.cache
+C:\Users\ydm00\source\repos\asd\asd\x64\Debug\asd.MyForm.resources
+C:\Users\ydm00\source\repos\asd\asd\x64\Debug\asd.vcxproj.GenerateResource.cache

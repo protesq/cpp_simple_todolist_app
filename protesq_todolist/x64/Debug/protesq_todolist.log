@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (asd.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  MyForm.cpp
+C:\Users\ydm00\source\repos\protesq_todolist\protesq_todolist\MyForm.cpp(4,6): warning C4829: Ana işlev için hatalı olabilecek parametreler. 'int main(Platform::Array<Platform::String^>^ argv)' kullanmayı düşünün
+  MyForm.obj : MSIL modülü ile karşılaşıldı; MSIL için artımlı bağlama devre dışı bırakıldı; tam bağlantı gerçekleştiriliyor
+  protesq_todolist.vcxproj -> C:\Users\ydm00\source\repos\protesq_todolist\x64\Debug\protesq_todolist.exe
